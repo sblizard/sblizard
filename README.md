@@ -108,7 +108,7 @@ Whether you're looking to **transform your tech stack**, need **strategic consul
 
 <div align="center">
   
-**Email:** [emailseanblizard@gmail.com](mailto:emailseanblizard@gmail.com)  
+**Email:** [hello@seanblizard.com](mailto:hello@seanblizard.com)  
 **Portfolio:** [seanblizard.com](https://seanblizard.com)  
 **Company:** [Brightstar Solutions](https://buildwithbrightstar.com)  
 **Location:** Raleigh, NC
