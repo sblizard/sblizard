@@ -90,11 +90,7 @@ Currently pursuing **Computer Science & Applied Mathematics** at UNC Chapel Hill
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sblizard&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sblizard&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
@@ -102,7 +98,7 @@ Currently pursuing **Computer Science & Applied Mathematics** at UNC Chapel Hill
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 Whether you're looking to **transform your tech stack**, need **strategic consulting**, or want to **collaborate on innovative projects** - I'm always excited to connect with fellow developers and entrepreneurs.
 
