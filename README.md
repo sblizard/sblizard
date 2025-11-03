@@ -105,7 +105,7 @@ Currently pursuing **Computer Science & Applied Mathematics** at UNC Chapel Hill
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sblizard&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sblizard&theme=react-dark&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sblizard&layout=compact&theme=tokyonight&hide_border=true)
   
   ![Sean's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sblizard&theme=react-dark&hide_border=true)
   
