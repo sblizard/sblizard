@@ -98,14 +98,18 @@
 ## GitHub Stats
 
 <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sblizard&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sblizard&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![Sean's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sblizard&theme=react-dark&hide_border=true)
-  
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sblizard&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sblizard&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  </p>
+
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sblizard&theme=react-dark&hide_border=true"/>
+
 </div>
+
 
 ---
 
