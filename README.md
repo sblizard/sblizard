@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
-  <p><strong>Full-Stack Developer & Founder</strong> | Building digital solutions that scale</p>
+  <p>Passionate developer and builder</p>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/sean-blizard/">
@@ -17,36 +17,32 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </div>
-  
-  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*IPZto_chtq-97A2J7gKjLA.gif" width="1000" height="300"/>
+
+  <img src="https://komarev.com/ghpvc/?username=sblizard&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views"/>
+
+  <br/>
+
+  <img src="https://ik.imagekit.io/163nb9q5a/Photo%201971.JPG?updatedAt=1762529312899" width="500"/>
+
+  <br/><br/>
+
+  <img src="https://images.cooltext.com/5744532.png" width="1074" height="104" alt="Welcome to my github profile"/>
 </div>
 
 ---
 
 ## About Me
 
-**Founder & Lead Developer** at [**Brightstar Solutions**](https://buildwithbrightstar.com) - transforming ideas into powerful digital solutions with precision and expertise.
+**Founder & Developer** at [**Brightstar Solutions**](https://buildwithbrightstar.com) - putting untapped talent at the forefront of industry.
 
-Currently pursuing **Computer Science & Applied Mathematics** at UNC Chapel Hill while running a full-service tech consultancy that specializes in full-stack development, AI integrations, and scalable cloud solutions.
+**Student @ UNC** studying computer science and mathematics. 
 
 ### What I'm Up To
-- **Building Brightstar Solutions** - Our on-demand tech consultancy that plugs into organizations to strategize, consult, and build transformative technology
+- **Building Brightstar Solutions** - Our dev shop that plugs into organizations to strategize and build transformative technology
 - **Studying at UNC Chapel Hill** - Computer Science & Applied Mathematics
-- **Exploring Cybersecurity** - Implementing secure solutions and advanced security frameworks
-- **Staying Active** - Running trails and rock climbing when I'm not coding
-
----
-
-## What I Do
-
-**Backend-First Full-Stack Development** with a focus on:
-- **Product Research & Strategy** - Market analysis and strategic planning
-- **Full-Stack Development** - End-to-end applications using modern frameworks
-- **Cloud Infrastructure & DevOps** - Scalable, reliable cloud solutions
-- **AI Integrations** - Intelligent systems and automation
-- **Security Implementation** - Advanced security frameworks and compliance
-- **Performance Optimization** - Speed, efficiency, and cost-effectiveness
-
+- **Building** - Always working on something new. Check out my [portfolio](https://seanblizard.com) for more info 
+- **Staying Active** - Running and rock climbing when I'm not coding
+  
 ---
 
 ## Tech Stack
@@ -115,19 +111,16 @@ Currently pursuing **Computer Science & Applied Mathematics** at UNC Chapel Hill
 
 ## Let's Connect
 
-Whether you're looking to **transform your tech stack**, need **strategic consulting**, or want to **collaborate on innovative projects** - I'm always excited to connect with fellow developers and entrepreneurs.
+Reach out if you're interested in building somehting new! To talk about potential partnerships with Brightstar, you can reach us [here](https://www.buildwithbrightstar.com/contact).
 
 <div align="center">
   
 **Email:** [hello@seanblizard.com](mailto:hello@seanblizard.com)  
 **Portfolio:** [seanblizard.com](https://seanblizard.com)  
-**Company:** [Brightstar Solutions](https://buildwithbrightstar.com)  
-**Location:** Raleigh, NC
+**Location:** Chapel Hill, NC
 
-</div>
 
 ---
 
-<div align="center">
-  <i>"Plug in, scale up, and disrupt" - Let's build something amazing together!</i>
+<img src="https://www.nairaland.com/attachments/3387709_alanturingquotes_jpegc570661b9817bc4936bef83a66e4dbfe"/>
 </div>
