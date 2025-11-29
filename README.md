@@ -115,7 +115,7 @@
 
 ## Let's Connect
 
-Reach out if you're interested in building somehting new! To talk about potential partnerships with Brightstar, you can reach us [here](https://www.buildwithbrightstar.com/contact).
+Reach out if you're interested in building something new! To talk about potential partnerships with Brightstar, you can reach us [here](https://www.buildwithbrightstar.com/contact).
 
 <div align="center">
   
